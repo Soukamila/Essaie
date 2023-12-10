@@ -9,7 +9,7 @@ def jwenn_karakte_nan_mitan(chenn):
 
     return None 
 
-'
+
 chenn_karakte = input("Entrer yon chaine ki gen hidden ak enpass la danl")
 resultat = jwenn_karakte_nan_mitan(chenn_karakte)
 
